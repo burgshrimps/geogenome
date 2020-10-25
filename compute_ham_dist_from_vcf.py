@@ -11,7 +11,7 @@ sample_sheet = sys.argv[2]
 vcf = VariantFile(vcf_file)
 
 # Stratified sampling
-n = 40 # Number of samples from each group
+n = 20 # Number of samples from each group
 samples = pd.read_csv(sample_sheet, sep='\t')
 samples = samples[samples['Sample name'].isin(list(vcf.header.samples))]
 samples_subset = samples.groupby('Superpopulation code').apply(lambda x: x.sample(n=n))
