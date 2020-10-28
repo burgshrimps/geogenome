@@ -1,0 +1,101 @@
+Sample name	Sex	Biosample ID	Population code	Population name	Superpopulation code	Superpopulation name	Data collections
+HG02891	female	SAME1839938	GWD	Gambian Mandinka	AFR	African	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG03074	male	SAME1839029	MSL	Mende	AFR	African	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG02938	male	SAME1839284	ESN	Esan	AFR	African	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA19026	male	SAME124849	LWK	Luhya	AFR	African	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG02420	male	SAME1839320	ACB	African-Caribbean	AFR	African	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA19143	female	SAME124609	YRI	Yoruba	AFR	African	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA19380	male	SAME124276	LWK	Luhya	AFR	African	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19131	female	SAME125230	YRI	Yoruba	AFR	African	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG02323	male	SAME1839440	ACB	African-Caribbean	AFR	African	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG02309	female	SAME1839525	ACB	African-Caribbean	AFR	African	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA19451	male	SAME125415	LWK	Luhya	AFR	African	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG03436	male	SAME1840120	MSL	Mende	AFR	African	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA19324	female	SAME123472	LWK	Luhya	AFR	African	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19472	female	SAME123120	LWK	Luhya	AFR	African	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG02623	male	SAME1840182	GWD	Gambian Mandinka	AFR	African	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG03401	female	SAME1839299	MSL	Mende	AFR	African	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG03376	male	SAME1839736	MSL	Mende	AFR	African	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA19146	male	SAME125080	YRI	Yoruba	AFR	African	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA19095	female	SAME123170	YRI	Yoruba	AFR	African	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG03485	female	SAME1839469	MSL	Mende	AFR	African	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA19764	female	SAME123898	MXL	Mexican-American	AMR	American	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01259	male	SAME125280	CLM	Colombian	AMR	American	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19682	male	SAME122935	MXL	Mexican-American	AMR	American	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01577	male	SAME124349	PEL	Peruvian	AMR	American	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG01063	male	SAME1839767	PUR	Puerto Rican	AMR	American	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG01326	female	SAME1839598	PUR	Puerto Rican	AMR	American	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG01921	female	SAME123790	PEL	Peruvian	AMR	American	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG01284	female	SAME1839191	CLM	Colombian	AMR	American	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA19652	male	SAME124978	MXL	Mexican-American	AMR	American	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG02090	male	SAME124651	PEL	Peruvian	AMR	American	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA19750	male	SAME123698	MXL	Mexican-American	AMR	American	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01459	female	SAME1840278	CLM	Colombian	AMR	American	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG01951	female	SAME123976	PEL	Peruvian	AMR	American	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG01455	male	SAME123429	CLM	Colombian	AMR	American	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01325	male	SAME1839604	PUR	Puerto Rican	AMR	American	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG02275	female	SAME1840376	PEL	Peruvian	AMR	American	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG01077	female	SAME1839581	PUR	Puerto Rican	AMR	American	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG01918	female	SAME123240	PEL	Peruvian	AMR	American	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG02104	male	SAME123874	PEL	Peruvian	AMR	American	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA19658	male	SAME123132	MXL	Mexican-American	AMR	American	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19072	male	SAME122822	JPT	Japanese	EAS	East Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG02164	female	SAME124209	CDX	Dai Chinese	EAS	East Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG02154	female	SAME124794	CDX	Dai Chinese	EAS	East Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA18950	female	SAME124112	JPT	Japanese	EAS	East Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19089	male	SAME123649	JPT	Japanese	EAS	East Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA18639	male	SAME124694	CHB	Han Chinese	EAS	East Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG00766	female	SAME124458	CDX	Dai Chinese	EAS	East Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA18967	male	SAME123963	JPT	Japanese	EAS	East Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01809	female	SAME124299	CDX	Dai Chinese	EAS	East Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA18565	female	SAME123922	CHB	Han Chinese	EAS	East Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18998	female	SAME124891	JPT	Japanese	EAS	East Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18988	male	SAME125078	JPT	Japanese	EAS	East Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19059	female	SAME125023	JPT	Japanese	EAS	East Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18602	female	SAME124876	CHB	Han Chinese	EAS	East Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01850	female	SAME123752	KHV	Kinh Vietnamese	EAS	East Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG00404	female	SAME123158	CHS	Southern Han Chinese	EAS	East Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18962	male	SAME123958	JPT	Japanese	EAS	East Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18634	female	SAME124697	CHB	Han Chinese	EAS	East Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG02139	female	SAME123660	KHV	Kinh Vietnamese	EAS	East Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA18747	male	SAME123916	CHB	Han Chinese	EAS	East Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG00129	male	SAME122867	GBR	British	EUR	European	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA11933	female	SAME125098	CEU	CEPH	EUR	European	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA20802	female	SAME125366	TSI	Tuscan	EUR	European	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG01707	female	SAME123264	IBS	Spanish	EUR	European	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG00384	female	SAME123034	FIN	Finnish	EUR	European	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20587	female	SAME123481	TSI	Tuscan	EUR	European	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG00378	female	SAME124745	FIN	Finnish	EUR	European	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00271	male	SAME123417	FIN	Finnish	EUR	European	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12842	male	SAME123542	CEU	CEPH	EUR	European	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00342	male	SAME124924	FIN	Finnish	EUR	European	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00109	male	SAME125160	GBR	British	EUR	European	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12155	male	SAME124955	CEU	CEPH	EUR	European	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20827	male	SAME123071	TSI	Tuscan	EUR	European	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA12340	male	SAME125157	CEU	CEPH	EUR	European	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00290	male	SAME1839057	FIN	Finnish	EUR	European	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA20816	male	SAME125186	TSI	Tuscan	EUR	European	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12006	female	SAME125145	CEU	CEPH	EUR	European	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG01790	female	SAME124222	GBR	British	EUR	European	1000 Genomes on GRCh38,1000 Genomes phase 3 release,Geuvadis
+NA20757	female	SAME124176	TSI	Tuscan	EUR	European	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12874	male	SAME123389	CEU	CEPH	EUR	European	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG02793	female	SAME1840415	PJL	Punjabi	SAS	South Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA21128	male	SAME124022	GIH	Gujarati	SAS	South Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA21108	female	SAME124442	GIH	Gujarati	SAS	South Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG04090	female	SAME1839927	ITU	Indian	SAS	South Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG03866	male	SAME1840087	ITU	Indian	SAS	South Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA20884	male	SAME124514	GIH	Gujarati	SAS	South Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG04018	female	SAME1839565	ITU	Indian	SAS	South Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA20881	female	SAME124531	GIH	Gujarati	SAS	South Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG03995	female	SAME1839395	STU	Sri Lankan	SAS	South Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG03846	male	SAME1839172	STU	Sri Lankan	SAS	South Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA21120	female	SAME124028	GIH	Gujarati	SAS	South Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA21102	female	SAME124438	GIH	Gujarati	SAS	South Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG03833	male	SAME1839356	BEB	Bengali	SAS	South Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG03696	male	SAME1840135	STU	Sri Lankan	SAS	South Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG03926	male	SAME1839033	BEB	Bengali	SAS	South Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG03585	male	SAME1839293	BEB	Bengali	SAS	South Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG03594	male	SAME1839181	BEB	Bengali	SAS	South Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG04176	male	SAME1839986	BEB	Bengali	SAS	South Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA21127	male	SAME124027	GIH	Gujarati	SAS	South Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA20852	male	SAME123244	GIH	Gujarati	SAS	South Asian	1000 Genomes on GRCh38,1000 Genomes phase 3 release
