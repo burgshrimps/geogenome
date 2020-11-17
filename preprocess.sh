@@ -35,6 +35,7 @@ samtools sort -@ 20 -o map/HG01571.sorted.bam map/HG01571.bam
 samtools index map/HG01571.sorted.bam
 
 # Variant calling
+mkdir vcf
 freebayes -f ref/GRCh38_full_analysis_set_plus_decoy_hla.fa map/HG01571.sorted.bam > vcf/HG01571.vcf
 bcftools view -i 'FORMAT/DP>10 & QUAL>20' vcf/HG01571.vcf > vcf/HG01571.filtered.vcf
 
